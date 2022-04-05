@@ -1,7 +1,11 @@
 
-<img align='left' src='https://github.com/ViKi-R/pyLocker/blob/main/folderlock.ico'></img>
+<img align='left' src='icon.png'></img>
 # py-NPG
 Python Name-Based Password Generator
+</br>
+</br>
+</br>
+</br>
 Demo:
 
 Usage:

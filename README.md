@@ -1,9 +1,9 @@
 
 <img align='left' src='icon.png'></img>
 # py-NPG
-Python Name-Based Password Generator</br>
+Python Name-Based Password Generator</br></br>
 Generates random upper-case & lower-case password based on user's name, number and special character.
-</br></br></br></br></br></br></br>
+</br></br></br></br></br></br>
 
 Demo:
 

@@ -6,9 +6,7 @@ Generates random upper-case & lower-case password based on user's name, number a
 </br></br></br></br>
 
 #### Usage:
-
 ##### Windows
-
 ```
 Download zip and extract & run.
 python pynpg.py

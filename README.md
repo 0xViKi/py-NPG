@@ -1,5 +1,5 @@
 
-<img align='left' src='icon.png'></img>
+<img align='left' src='image/icon.png'></img>
 # py-NPG
 Python Name-Based Password Generator</br></br>
 Generates random upper-case & lower-case password based on user's name, number and special character.
@@ -19,8 +19,8 @@ python3 pynpg.py
 ```
 
 #### Screenshots:
-<img  src='ss1.png' ></img>
-<img  src='ss2.png' ></img>
-<img  src='ss3.png' ></img>
+<img  src='image/ss1.png' ></img>
+<img  src='image/ss2.png' ></img>
+<img  src='image/ss3.png' ></img>
 
 

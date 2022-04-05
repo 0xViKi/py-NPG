@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import random
+import os
 
 
 def nameFunc():
@@ -64,6 +65,7 @@ def specialChar():
 
 def logo():
       
+    os.system('cls' if os.name == 'nt' else 'clear')	
     pyNPGLogo = """
 #############################################################
 #        PYTHON - Name Based Password Generator (Py-NPG)    #   

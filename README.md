@@ -11,12 +11,12 @@ Demo:
 
 Usage:
 
-###### Windows
+##### Windows
 Download zip and extract & run
 ```
 python pynpg.py
 ```
-###### Linux
+##### Linux
 ```
 git clone https://github.com/0xViKi/py-NPG
 cd py-NPG 
